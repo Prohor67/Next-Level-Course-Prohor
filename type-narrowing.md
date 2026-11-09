@@ -55,6 +55,6 @@ function showInfo(user: { name: string } | { age: number }): void {
     }
 }
 ```
-###Conclusion
+### Conclusion
 
 Type Narrowing makes TypeScript code safer and easier to maintain. By using typeof, instanceof, and the in operator, developers can check variable types and access properties or methods safely. It is an important concept for writing reliable TypeScript applications.
