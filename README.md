@@ -15,7 +15,7 @@
 
 All eight coding problems are implemented in a single TypeScript file named `solutions.ts`.
 
-*Blog Posts*
+**Blog Posts**
 
 As part of this assignment, I have written two blog posts covering important TypeScript concepts:
 
